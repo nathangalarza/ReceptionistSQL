@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="osgi">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/company3/lib/osgi/hibernate-osgi-4.3.11.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/company3/lib/osgi/org.osgi.core-4.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/company3/lib/osgi/org.osgi.compendium-4.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

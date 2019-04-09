@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="VIsitors GIT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Java doc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Visitors.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="connector">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/company3/connector/cldrdata.jar!/" />
+      <root url="jar://$PROJECT_DIR$/company3/connector/nashorn.jar!/" />
+      <root url="jar://$PROJECT_DIR$/company3/connector/sunec.jar!/" />
+      <root url="jar://$PROJECT_DIR$/company3/connector/access-bridge-64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/company3/connector/localedata.jar!/" />
+      <root url="jar://$PROJECT_DIR$/company3/connector/dnsns.jar!/" />
+      <root url="jar://$PROJECT_DIR$/company3/connector/jfxrt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/company3/connector/zipfs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/company3/connector/mysql-connector.jar!/" />
+      <root url="jar://$PROJECT_DIR$/company3/connector/jaccess.jar!/" />
+      <root url="jar://$PROJECT_DIR$/company3/connector/sunjce_provider.jar!/" />
+      <root url="jar://$PROJECT_DIR$/company3/connector/sunpkcs11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/company3/connector/sunmscapi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="eclipselink">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/company3/eclipselink/eclipselink-javadocs.zip!/" />
+      <root url="jar://$PROJECT_DIR$/company3/eclipselink/eclipselink-jpars-javadocs.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="package-rename">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/company3/eclipselink/utils/rename/package-rename.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
