@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-JDOMAbout<CompanyReception>",
+            "request": "launch",
+            "mainClass": "JDOMAbout",
+            "projectName": "CompanyReception"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DocsConnectionPropsHelper<CompanyReception>",
+            "request": "launch",
+            "mainClass": "com.mysql.jdbc.DocsConnectionPropsHelper",
+            "projectName": "CompanyReception"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ErrorMappingsDocGenerator<CompanyReception>",
+            "request": "launch",
+            "mainClass": "com.mysql.jdbc.util.ErrorMappingsDocGenerator",
+            "projectName": "CompanyReception"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PropertiesDocGenerator<CompanyReception>",
+            "request": "launch",
+            "mainClass": "com.mysql.jdbc.util.PropertiesDocGenerator",
+            "projectName": "CompanyReception"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TimezoneDump<CompanyReception>",
+            "request": "launch",
+            "mainClass": "com.mysql.jdbc.util.TimezoneDump",
+            "projectName": "CompanyReception"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-VersionFSHierarchyMaker<CompanyReception>",
+            "request": "launch",
+            "mainClass": "com.mysql.jdbc.util.VersionFSHierarchyMaker",
+            "projectName": "CompanyReception"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-About<CompanyReception>",
+            "request": "launch",
+            "mainClass": "edu.pupr.entities.About",
+            "projectName": "CompanyReception"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HelpFrame<CompanyReception>",
+            "request": "launch",
+            "mainClass": "edu.pupr.entities.HelpFrame",
+            "projectName": "CompanyReception"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Login2<CompanyReception>",
+            "request": "launch",
+            "mainClass": "edu.pupr.entities.Login2",
+            "projectName": "CompanyReception"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SQLConnection2<CompanyReception>",
+            "request": "launch",
+            "mainClass": "edu.pupr.entities.SQLConnection2",
+            "projectName": "CompanyReception"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DbUtils<CompanyReception>",
+            "request": "launch",
+            "mainClass": "net.proteanit.sql.DbUtils",
+            "projectName": "CompanyReception"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-JTableUpdateDb<CompanyReception>",
+            "request": "launch",
+            "mainClass": "net.proteanit.sql.JTableUpdateDb",
+            "projectName": "CompanyReception"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-XmlUtils<CompanyReception>",
+            "request": "launch",
+            "mainClass": "net.proteanit.sql.XmlUtils",
+            "projectName": "CompanyReception"
+        }
+    ]
+}
